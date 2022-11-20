@@ -7,6 +7,7 @@
 @IDE ：PyCharm
 @Description：微信公众号发送消息主文件
 """
+# https://blog.csdn.net/sxdgy_/article/details/126420155
 
 from send_message import SendMessage
 
